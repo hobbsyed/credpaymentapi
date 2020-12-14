@@ -2,7 +2,7 @@ from flask import Flask
 
 premium = Flask(__name__)
 
-@premium.route('/')
+@premium.route('/premium')
 def homepage():
     return 'Premium Server Transaction Succesfull'
 
