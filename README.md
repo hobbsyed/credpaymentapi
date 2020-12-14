@@ -16,7 +16,12 @@ http://127.0.0.1:5001/processpayment
 ```
 
 #### Parameters
-     **ccno**- Credit Card Number (mandatory) 
+   **ccno**- Credit Card Number (mandatory)
+   **cardhold**- Credit Card Holder Name (mandatory)
+   **expdt**- Credit Card Expiry Date Eg : 10/22 for October 20222 (mandatory)
+   **secode**- Credit Card Security Code (CVV)  (optional) 
+   **amount**- Amount (mandatory)
+   
 
 ### gateway.py
 
