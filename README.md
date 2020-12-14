@@ -16,7 +16,7 @@ http://127.0.0.1:5001/processpayment
 ```
 
 #### Parameters
-     *ccno** - Credit Card Number (mandatory) 
+     **ccno** - Credit Card Number (mandatory) 
 
 ### gateway.py
 
