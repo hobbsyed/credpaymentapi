@@ -35,7 +35,7 @@ This class selects the payment gateway based on the amount given to the api .
  ```Please run the above servers based on the test cases```.
 ```url
 http://127.0.0.1:5002/cheap
-http://127.0.0.1:5002/cheap
+http://127.0.0.1:5003/cheap
 http://127.0.0.1:5004/premium
 
 ```
