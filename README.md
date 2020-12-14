@@ -15,8 +15,8 @@ Please run the above python file first to activate credit card api service. Belo
 http://127.0.0.1:5001/processpayment 
 ```
 
-###### Parameters
-     *```ccno``` - Credit Card Number (mandatory) 
+#### Parameters
+     *ccno** - Credit Card Number (mandatory) 
 
 ### gateway.py
 
