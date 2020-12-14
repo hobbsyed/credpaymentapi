@@ -16,7 +16,7 @@ http://127.0.0.1:5001/processpayment
 ```
 
 #### Parameters
-     __ccno__ - Credit Card Number (mandatory) 
+     **ccno**- Credit Card Number (mandatory) 
 
 ### gateway.py
 
@@ -28,4 +28,9 @@ This class selects the payment gateway based on the amount given to the api .
 ### cheapserver.py   expenseserver.py    premiumserver.py
 
  ```Please run the above servers based on the test cases```.
+```url
+http://127.0.0.1:5002/cheap
+http://127.0.0.1:5002/cheap
+http://127.0.0.1:5004/premium
 
+```
