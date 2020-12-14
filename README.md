@@ -9,7 +9,7 @@ pip install -r requirements.txt
 
 ### app.py
 
-Please run the above python file first to activate credit card api service.Below give URI is used to reach the api service.
+Please run the above python file first to activate credit card api service. Below given URI is used to reach the api service.
 
 ```url
 http://127.0.0.1:5001/processpayment 
@@ -17,4 +17,10 @@ http://127.0.0.1:5001/processpayment
 
 ### gateway.py
 
-This class selects the payment gateway based on the amount given to the api
+This class selects the payment gateway based on the amount given to the api . This class is called on the ``app.py`` so no need to run seperately
+
+
+### cheapserver.py,expenseserver.py,premiumserver.py
+
+Please run the above server based on the test cases.
+
