@@ -19,10 +19,10 @@ http://127.0.0.1:5001/processpayment
 
 This class selects the payment gateway based on the amount given to the api . 
 
-```This class is called on the ``app.py`` so no need to run seperately```
+```This class is called on the app.py so no need to run seperately```
 
 
-### cheapserver.py,expenseserver.py,premiumserver.py
+### cheapserver.py   expenseserver.py    premiumserver.py
 
- ``Please run the above servers based on the test cases```.
+ ```Please run the above servers based on the test cases```.
 
